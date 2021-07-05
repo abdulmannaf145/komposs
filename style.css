@@ -235,6 +235,9 @@ footer {
 .col-2 {
     width: 20%;
 }
+::selection{
+    color: #fb5200;
+}
 
 footer img {
     width: 120px;
