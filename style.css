@@ -237,6 +237,7 @@ footer {
 }
 ::selection{
     color: #fb5200;
+    background: #ff8448;
 }
 
 footer img {
